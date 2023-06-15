@@ -1,3 +1,4 @@
+#GRIP JUNE 2023 @ The Sparks Foundation
 # Task 2 - Prediction using Unsupervised Machine Learning
 
 This project focuses on performing unsupervised machine learning to make predictions. It includes the use of Jupyter Notebook through Anaconda Navigator for development.
